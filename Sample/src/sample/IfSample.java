@@ -6,7 +6,7 @@ public class IfSample {
         var score = 80; //成績
         
         
-        if (score >= 60) {
+        if (score >= 81) {
             System.out.println("合格です！");
             
         }
